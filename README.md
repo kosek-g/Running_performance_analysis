@@ -6,7 +6,7 @@ The notebook consists of three main parts:<br><br>
   <ul> 
     where I clean the dataset and make it ready for further steps.
   </ul>
-<li>:chart: <b>Exploratory Data Analysis</b>
+<li>:chart_with_upwards_trend: <b>Exploratory Data Analysis</b>
   <ul>
     where I take a deeper look into data and try to have a good overview on my activities.
     </ul>
